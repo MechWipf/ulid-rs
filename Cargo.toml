@@ -1,8 +1,8 @@
 [package]
 name = "ulid"
-version = "0.5.0"
+version = "0.6.0-rc.1"
 authors = ["dylanhart <dylan96hart@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 license = "MIT"
 readme = "README.md"
@@ -10,7 +10,7 @@ readme = "README.md"
 description = "a Universally Unique Lexicographically Sortable Identifier implementation"
 keywords = ["ulid", "uuid", "sortable", "identifier"]
 
-repository = "https://github.com/dylanhart/ulid-rs"
+repository = "https://github.com/mechwipf/ulid-rs"
 
 [features]
 default = ["std"]
